@@ -1,0 +1,13 @@
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\QLQCF.csproj.AssemblyReference.cache
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\QLQCF.csproj.SuggestedBindingRedirects.cache
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\QLQCF.csproj.GenerateResource.cache
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\QLQCF.csproj.CoreCompileInputs.cache
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+E:\Phần mềm quản lý quán cafe\project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
